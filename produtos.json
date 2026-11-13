@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "updated": "2026-11-13",
+  "disclosure": {
+    "pt": "Indicações do Nooli. Alguns links podem ser de afiliado: ao comprar por eles, você ajuda a manter o app, sem pagar nada a mais.",
+    "en": "Picks from Nooli. Some links may be affiliate links: buying through them helps support the app at no extra cost to you.",
+    "es": "Recomendaciones de Nooli. Algunos enlaces pueden ser de afiliado: al comprar con ellos ayudas a mantener la app, sin costo extra."
+  },
+  "products": [
+    {
+      "id": "baba-eletronica",
+      "category": { "pt": "Sono", "en": "Sleep", "es": "Sueño" },
+      "name": { "pt": "Babá eletrônica com câmera", "en": "Video baby monitor", "es": "Vigilabebés con cámara" },
+      "note": { "pt": "Para acompanhar as sonecas de outro cômodo.", "en": "Keep an eye on naps from another room.", "es": "Para seguir las siestas desde otra habitación." },
+      "url": "https://www.amazon.com.br/s?k=baba+eletronica+com+camera"
+    },
+    {
+      "id": "ruido-branco",
+      "category": { "pt": "Sono", "en": "Sleep", "es": "Sueño" },
+      "name": { "pt": "Aparelho de ruído branco", "en": "White noise machine", "es": "Máquina de ruido blanco" },
+      "note": { "pt": "Som contínuo e suave para o quarto.", "en": "Steady, gentle sound for the nursery.", "es": "Sonido continuo y suave para el cuarto." },
+      "url": "https://www.amazon.com.br/s?k=aparelho+ruido+branco+bebe"
+    },
+    {
+      "id": "saco-de-dormir",
+      "category": { "pt": "Sono", "en": "Sleep", "es": "Sueño" },
+      "name": { "pt": "Saco de dormir para bebê", "en": "Baby sleep sack", "es": "Saco de dormir para bebé" },
+      "note": { "pt": "Escolha o tamanho pela idade e pela temperatura do quarto.", "en": "Pick the size by age and room temperature.", "es": "Elige la talla según la edad y la temperatura del cuarto." },
+      "url": "https://www.amazon.com.br/s?k=saco+de+dormir+bebe"
+    },
+    {
+      "id": "luz-noturna",
+      "category": { "pt": "Sono", "en": "Sleep", "es": "Sueño" },
+      "name": { "pt": "Luz noturna de luz quente", "en": "Warm night light", "es": "Luz nocturna cálida" },
+      "note": { "pt": "Ajuda nas trocas e mamadas da madrugada.", "en": "Handy for night feeds and changes.", "es": "Útil para tomas y cambios de madrugada." },
+      "url": "https://www.amazon.com.br/s?k=luz+noturna+bebe"
+    },
+    {
+      "id": "trocador-portatil",
+      "category": { "pt": "Passeio", "en": "On the go", "es": "Paseo" },
+      "name": { "pt": "Trocador portátil", "en": "Portable changing pad", "es": "Cambiador portátil" },
+      "note": { "pt": "Prático para trocar a fralda fora de casa.", "en": "Easy diaper changes away from home.", "es": "Práctico para cambiar el pañal fuera de casa." },
+      "url": "https://www.amazon.com.br/s?k=trocador+portatil+bebe"
+    },
+    {
+      "id": "organizador-fraldas",
+      "category": { "pt": "Higiene", "en": "Care", "es": "Higiene" },
+      "name": { "pt": "Organizador de fraldas", "en": "Diaper caddy", "es": "Organizador de pañales" },
+      "note": { "pt": "Fraldas, lenços e pomada sempre à mão.", "en": "Diapers, wipes and cream within reach.", "es": "Pañales, toallitas y crema siempre a mano." },
+      "url": "https://www.amazon.com.br/s?k=organizador+de+fraldas"
+    },
+    {
+      "id": "tapete-atividades",
+      "category": { "pt": "Brincar", "en": "Play", "es": "Juego" },
+      "name": { "pt": "Tapete de atividades", "en": "Activity play mat", "es": "Gimnasio de actividades" },
+      "note": { "pt": "Para o tempo de barriga para baixo (tummy time).", "en": "Great for tummy time.", "es": "Ideal para el tiempo boca abajo." },
+      "url": "https://www.amazon.com.br/s?k=tapete+de+atividades+bebe"
+    },
+    {
+      "id": "mordedor",
+      "category": { "pt": "Brincar", "en": "Play", "es": "Juego" },
+      "name": { "pt": "Mordedor de silicone", "en": "Silicone teether", "es": "Mordedor de silicona" },
+      "note": { "pt": "Para a fase dos primeiros dentinhos.", "en": "For the first-teeth phase.", "es": "Para la etapa de los primeros dientes." },
+      "url": "https://www.amazon.com.br/s?k=mordedor+silicone+bebe"
+    }
+  ]
+}
